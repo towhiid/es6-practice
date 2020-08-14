@@ -8,4 +8,4 @@ class Student{
 }
 const student1 = new Student(23, "amit");
 const student2 = new Student(32, "tanvir");
-console.log(student1, student2);
+console.log(student1.name, student2);
